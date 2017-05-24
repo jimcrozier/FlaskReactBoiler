@@ -1,0 +1,3 @@
+
+sudo pip install flask flask_script flask_migrate flask_bcrypt 
+sudo pip install --egg mysql-connector-python-rf
